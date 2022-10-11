@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true"
+        android:top="2dp"
+        android:bottom="2dp"
+        android:right="2dp"
+        android:left="2dp">
+        <shape android:shape="rectangle"
+            android:dither="true"
+            android:useLevel="false" android:visible="true">
+            <solid android:color="@color/white"/>
+            <size android:width="15dp"
+                android:height="9dp"/>
+            <corners android:radius="20dp"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/ic_off_button_power_button_svgrepo_com"
+        android:right="18dp"
+        android:left="18dp"
+        android:top="7dp"
+        android:bottom="8dp"/>
+</layer-list>
