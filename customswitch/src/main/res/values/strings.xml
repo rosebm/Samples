@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">CustomSwitch</string>
+    <string name="app_name">Custom Switch</string>
+    <string name="switch_1">Track with icon</string>
+    <string name="switch_2">Thumb with icon</string>
+    <string name="switch_3">Thumb with text</string>
+    <string name="switch_4">Default switch</string>
 </resources>

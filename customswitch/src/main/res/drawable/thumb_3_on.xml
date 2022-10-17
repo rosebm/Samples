@@ -11,13 +11,6 @@
             <solid android:color="@color/white"/>
             <size android:width="15dp"
                 android:height="9dp"/>
-            <corners android:radius="20dp"/>
         </shape>
     </item>
-
-    <item android:drawable="@drawable/ic_off_button_power_button_svgrepo_com"
-        android:right="18dp"
-        android:left="18dp"
-        android:top="7dp"
-        android:bottom="8dp"/>
 </layer-list>

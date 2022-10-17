@@ -5,12 +5,32 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
         <entry key="customswitch/src/main/res/drawable/switch_thumb.xml" value="0.174" />
+        <entry key="customswitch/src/main/res/drawable/switch_thumb_1.xml" value="0.1095" />
+        <entry key="customswitch/src/main/res/drawable/switch_thumb_2.xml" value="0.1095" />
+        <entry key="customswitch/src/main/res/drawable/switch_thumb_3.xml" value="0.1095" />
+        <entry key="customswitch/src/main/res/drawable/switch_thumb_no_icon.xml" value="0.202" />
         <entry key="customswitch/src/main/res/drawable/switch_track.xml" value="0.174" />
+        <entry key="customswitch/src/main/res/drawable/switch_track_1.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/drawable/switch_track_2.xml" value="0.1065" />
+        <entry key="customswitch/src/main/res/drawable/switch_track_3.xml" value="0.1095" />
+        <entry key="customswitch/src/main/res/drawable/thumb.xml" value="0.202" />
+        <entry key="customswitch/src/main/res/drawable/thumb_1_off.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/drawable/thumb_1_on.xml" value="0.124" />
+        <entry key="customswitch/src/main/res/drawable/thumb_2_off.xml" value="0.1065" />
+        <entry key="customswitch/src/main/res/drawable/thumb_2_on.xml" value="0.1065" />
+        <entry key="customswitch/src/main/res/drawable/thumb_3_off.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/drawable/thumb_3_on.xml" value="0.1" />
         <entry key="customswitch/src/main/res/drawable/thumb_false.xml" value="0.174" />
         <entry key="customswitch/src/main/res/drawable/thumb_true.xml" value="0.174" />
+        <entry key="customswitch/src/main/res/drawable/track_1_off.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/drawable/track_1_on.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/drawable/track_2_off.xml" value="0.1065" />
+        <entry key="customswitch/src/main/res/drawable/track_2_on.xml" value="0.1065" />
+        <entry key="customswitch/src/main/res/drawable/track_3_off.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/drawable/track_3_on.xml" value="0.1" />
         <entry key="customswitch/src/main/res/drawable/track_false.xml" value="0.175" />
         <entry key="customswitch/src/main/res/drawable/track_true.xml" value="0.174" />
-        <entry key="customswitch/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="customswitch/src/main/res/layout/activity_main.xml" value="0.1383925965378404" />
         <entry key="dynamicviews/src/main/res/layout/activity_main.xml" value="0.1160081053698075" />
       </map>
     </option>
